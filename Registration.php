@@ -1,1 +1,1 @@
-<?php echo "Details coming soon"; ?>
+<?php echo "This is about to be published"; ?>
